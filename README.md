@@ -1,4 +1,4 @@
-# ContactsManager
+# nombre de mots d'un fichier
 
 Ce projet permet de compter le nombre de mots dans un fichier en Java.  
 
